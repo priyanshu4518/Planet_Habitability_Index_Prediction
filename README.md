@@ -109,3 +109,9 @@ Additionally, a **Continuous Habitability Index** is derived to rank planets bas
   - [Planetary Habitability - Wikipedia](https://en.wikipedia.org/wiki/Planetary_habitability)
   - [NASA Exoplanet Exploration](https://exoplanets.nasa.gov/news/109/in-the-zone-how-scientists-search-for-habitable-planets/)
 
+--- 
+
+## 📧 Contact
+For questions, suggestions, or collaborations, feel free to reach out. 😊 
+
+mail-b23cy1021@iitj.ac.in
