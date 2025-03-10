@@ -114,4 +114,4 @@ Additionally, a **Continuous Habitability Index** is derived to rank planets bas
 ## 📧 Contact
 For questions, suggestions, or collaborations, feel free to reach out. 😊 
 
-mail-b23cy1021@iitj.ac.in
+mail-b23cy1021@iitj.ac.in, b23ee1029@iitj.ac.in
